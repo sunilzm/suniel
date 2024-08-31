@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunilzm
+- 👋 Hi, I’m @suniel
 - 👀 I’m interested in ...stack development 
 - 🌱 I’m currently learning ... hyper ledger fabric 
 - 💞️ I’m looking to collaborate on ...
